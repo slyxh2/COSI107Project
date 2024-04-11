@@ -1,0 +1,34 @@
+{
+  "name": "COSI107Project_Frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "@babel/preset-react": "^7.24.1",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.11",
+    "babel": "^6.23.0",
+    "babel-loader": "^9.1.3",
+    "babel-plugin-auto-import": "^1.1.0",
+    "css-loader": "^7.1.1",
+    "html-webpack-plugin": "^5.6.0",
+    "postcss-loader": "^8.1.1",
+    "postcss-preset-env": "^9.5.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.91.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
