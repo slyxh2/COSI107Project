@@ -1,5 +1,8 @@
+import Router from "./router";
+
+
 const App = () => {
-    return <h1>App22</h1>
+    return <Router />
 };
 
 
